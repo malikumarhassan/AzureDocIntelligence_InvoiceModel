@@ -1,0 +1,1 @@
+Using the Azure document intelligence tool you can simply convert your unstructured format of data into a structured format, which is beneficial to those organizations who maintain the invoices in PDF, word, and Excel format. working code of the project uploaded on GitHub where you can download and reuse it as per business requirement.
